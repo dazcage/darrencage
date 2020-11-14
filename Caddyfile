@@ -1,0 +1,4 @@
+{$SITE_HOST}
+
+root * /srv/darrencage
+file_server
